@@ -1,0 +1,27 @@
+body{
+    width:80%;
+    margin-top:20;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h1{
+    text-align: center;
+    color:darkblue;
+    
+}
+
+p{
+padding: 2px 2px;
+box-shadow: 1px 1px 1px 1px grey;
+}
+
+img{
+    align-content: center;
+    box-shadow: 2px 2px 2px 2px grey;
+    height: 80%;
+    width:90%;
+}
+
+td{
+    
+}
