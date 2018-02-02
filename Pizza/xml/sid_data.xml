@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="sid_style.css"?>
+<PIZZAS>
+<PIZZA>
+<NAME>Simple Sweetcorn</NAME>
+<CONTENT>SweetCorn</CONTENT>
+<PRIZE>Rs.69</PRIZE>
+</PIZZA>
+    
+<PIZZA>
+<NAME>Simple Capsicum</NAME>
+<CONTENT>Capsicum</CONTENT>
+<PRIZE>Rs.59</PRIZE>
+</PIZZA>
+    
+<PIZZA>
+<NAME>Chesse Overloaded</NAME>
+<CONTENT>Chesse and mix vegetables</CONTENT>
+<PRIZE>Rs.149</PRIZE>
+</PIZZA>
+    
+<PIZZA>
+<NAME>Simple Onion</NAME>
+<CONTENT>Onion</CONTENT>
+<PRIZE>Rs.59</PRIZE>
+</PIZZA>
+    
+<PIZZA>
+<NAME>Simple Tomato</NAME>
+<CONTENT>Tomato</CONTENT>
+<PRIZE>Rs.69</PRIZE>
+</PIZZA>
+    
+<PIZZA>
+<NAME>Margerita</NAME>
+<CONTENT>Chesse</CONTENT>
+<PRIZE>Rs.199</PRIZE>
+</PIZZA>
+    
+<PIZZA>
+<NAME>Maxican</NAME>
+<CONTENT>Secret Maxican Receipe</CONTENT>
+<PRIZE>Rs.299</PRIZE>
+</PIZZA>
+    
+<PIZZA>
+<NAME>Simple Chicken</NAME>
+<CONTENT>Chicken pieces</CONTENT>
+<PRIZE>Rs.149</PRIZE>
+</PIZZA>
+    
+</PIZZAS>

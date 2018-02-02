@@ -14,7 +14,7 @@ form{
 
      border: 1px solid #42464b;
      border-radius: 6px;
-     height: 600px;
+     height: 650px;
      margin: 20px auto 0;
      width: 600px;
     align-content: center;
@@ -35,21 +35,24 @@ input{
     float:center;
     padding: 5%;
     border-radius: 6px;
-    width: 70%;
+    
 }
 #email{
-    width: 170%;
+    width: 70%;
 }
 #name{
-    width: 170%;
+    width: 70%;
 }
 #comment {
-    float:center;
-    padding: 5%;
     width: 70%;
-    height: 300px;
+    height: 30%;
      border-radius: 6px;
     
+}
+#submit {
+    width: 70%;
+    height: 10%;
+
 }
 .box1{
 

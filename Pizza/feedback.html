@@ -7,18 +7,19 @@
     <center>
         <div class="box1">
       <div id="form_box">
-      <form>
+      <form action="index.html" method="post" id ="frm">
         <p id="form_heading">Feedback</p>
-        <input type="name" placeholder="Enter name" name="name"><br /><br/><br/>
-        <input type="email" placeholder="Enter email" name="email"><br /><br/><br/>
-          <input type="text" placeholder="comment" name="comment"><br/><br/><br/>
+        <input type="name" placeholder="Enter name" pattern="[a-zA-Z]{5,}" id="name"><br /><br/><br/>
+        <input type="email" placeholder="Enter email" id="email"><br /><br/><br/>
+          <input type="text" placeholder="comment" id="comment"><br/><br/><br/>
         <!-- <input type="checkbox" id="checkbox"><label for="checkbox" style="color:black; font-size:15px;">Remember Me</label><br /> -->
-        <input type="submit" value="Submit"><br /><br>
+        <input type="submit" value="Submit" id="submit"><br /><br>
       </form>
     </div>
             </div>
             <div class="shadow"></div>
         </center>
-
+        <script src="feedback_javascript.js">
+    </script>
     </body>
 </html>
